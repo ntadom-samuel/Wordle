@@ -1,4 +1,4 @@
-# Project 2 - wordle-improved
+# Project 2 - *Wordle*
 
 Submitted by: **Your Name Here**
 
